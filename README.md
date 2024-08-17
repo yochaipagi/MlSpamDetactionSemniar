@@ -1,2 +1,2 @@
 # MlSpamDetactionSemniar
-ML spam detaction seminar. train a SVM and Decision tree model to classify spam or ham email.
+ML spam detaction seminar. train a SVM  Decision tree and Nueral network model to classify spam or ham email.
